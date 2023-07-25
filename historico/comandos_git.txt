@@ -1,0 +1,9 @@
+# git branch Joao   
+# git checkout Joao        
+# git branch       
+# git branch --set-upstream
+# git push -u origin Joao
+#git clone -b "coloque a branch e tire os aspas" --single-branch https://github.com/JoaoGabrielCorrea/mercochange.git
+
+# https://www.tutorialspoint.com/How-to-print-current-date-and-time-using-Python
+# https://stackoverflow.com/questions/6089294/why-do-i-need-to-do-set-upstream-all-the-time
